@@ -1,4 +1,4 @@
-### Welcome to my test account for learning `GitHub` use.
+### Welcome to my test account for learning how to use `GitHub`.
 🇳🇿
 
 
