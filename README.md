@@ -1,6 +1,6 @@
 ### Welcome to my test account for learning how to use `GitHub`.
 🇳🇿
-![image]({https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white})
+![image](https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white)
 
 
 <!--
